@@ -1,6 +1,6 @@
 # Vim cheat sheet
 
-- [English](./README.md)
+- [English](./)
 - [简体中文](./README_CN.md)
 - [繁體中文](./README_TC.md)
 

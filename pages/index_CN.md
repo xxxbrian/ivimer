@@ -1,9 +1,8 @@
 # Vim 备忘单
 
-- [Vim 官网](https://www.vim.org/)
-- [Vim GitHub](https://github.com/vim/vim)
-- [Vim 中文文档](http://vimcdoc.sourceforge.net/doc/help.html)
-- [English](./README.md) | [简体中文](./README_CN.md) | [繁體中文](./README_TC.md)
+- [English](./)
+- [简体中文](./README_CN.md)
+- [繁體中文](./README_TC.md)
 
 ## 重复的威力
 

@@ -1,8 +1,8 @@
 # Vim cheat sheet
 
-- [English](./README.md)
-- [简体中文](./README_CN.md)
-- [繁體中文](./README_TC.md)
+- [Vim official website](https://www.vim.org/)
+- [Vim GitHub](https://github.com/vim/vim)
+- [English](./README.md) | [简体中文](./README_CN.md) | [繁體中文](./README_TC.md)
 
 ## The power of repetition
 
