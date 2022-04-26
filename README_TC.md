@@ -1,8 +1,8 @@
 # Vim 備忘單
 
-- [Vim 官網](https://www.vim.org/)
-- [Vim GitHub](https://github.com/vim/vim)
-- [English](./README.md) | [簡體中文](./README_CN.md) | [繁體中文](./README_TC.md)
+- [English](./README.md)
+- [简体中文](./README_CN.md)
+- [繁體中文](./README_TC.md)
 
 ## 重複的威力
 
