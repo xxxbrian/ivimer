@@ -1,8 +1,8 @@
 # Vim 备忘单
 
 - [English](./)
-- [简体中文](./README_CN.md)
-- [繁體中文](./README_TC.md)
+- [简体中文](./index_CN.md)
+- [繁體中文](./index_TC.md)
 
 ## 重复的威力
 
